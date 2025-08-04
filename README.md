@@ -6,7 +6,7 @@ This repository contains the backend API for the RailOps application. It is buil
 
 The following diagram illustrates the high-level structure and interaction between components in the RailOps API system.
 
-![Component Diagram](component_diagram.png)
+![Component Diagram](component.png)
 ## Tech Stack
 
 *   **Framework**: FastAPI
