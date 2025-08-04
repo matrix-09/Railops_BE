@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2
+python-dotenv     # if you're loading DB config from .env
+psycopg2-binary  # if you prefer a binary package
