@@ -6,4 +6,4 @@ services:
     startCommand: uvicorn main:app --host 0.0.0.0 --port 10000
     envVars:
       - key: DATABASE_URL
-        value: postgresql://railops_db_user:9HfSYpev1zKHku4dGe7pdsVu63NsgPfE@dpg-d28b476uk2gs73f3rmsg-a/railops_db  # Replace this during deployment
+          # Replace this during deployment
